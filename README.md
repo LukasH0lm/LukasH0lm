@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LukasH0lm
 - 👀 I’m interested in programming (duh!) and cyber security
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and C#
 - 💞️ I’m looking to collaborate on something meaningfull 
 - 📫 How to reach me Sambi#6613
